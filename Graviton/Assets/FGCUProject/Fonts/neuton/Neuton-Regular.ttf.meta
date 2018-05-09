@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: a583f16cacdfaf649b91169d73603d70
+timeCreated: 1521830631
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Neuton
+  fontNames:
+  - Neuton
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4b20d5a01681dcc459fffd0ce0956bc5, type: 3}
+  - {fileID: 12800000, guid: 0f63cbb4e88c59b49a811219bad906a0, type: 3}
+  - {fileID: 12800000, guid: a312585c259e4c14fa150f7637f17529, type: 3}
+  - {fileID: 12800000, guid: 6ef313fcc0eacc042b80e4472e8ce0aa, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
